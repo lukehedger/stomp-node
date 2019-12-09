@@ -1,0 +1,8 @@
+{
+  "name": "stomp-node",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "stompit": "0.26.0"
+  }
+}
