@@ -3,6 +3,6 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "stompit": "0.26.0"
+    "stompit": "1.0.0"
   }
 }
